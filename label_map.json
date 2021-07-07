@@ -1,0 +1,17 @@
+{
+    "Chính trị": 0,
+    "Đời sống": 1,
+    "Thể thao": 2,
+    "Quân sự": 3,
+    "Đối ngoại": 4,
+    "Nhà đất": 5,
+    "Giáo dục": 6,
+    "Pháp luật": 7,
+    "Du lịch": 8,
+    "Giải trí": 9,
+    "Văn hóa": 10,
+    "Công nghệ": 11,
+    "Khoa học": 12,
+    "Xã hội": 13,
+    "Kinh tế": 14
+}
